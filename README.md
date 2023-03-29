@@ -52,6 +52,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Link to Frontend 🎨 <a name="key-features"></a>
+
+- [Frontend](https://github.com/Shisui6/hello-react-front-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -73,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Shisui6/blog-app.git
+  git clone https://github.com/Shisui6/hello-rails-back-end.git
 ```
 
 ### Install
@@ -81,7 +87,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hello-rails-react
+  cd hello-rails-back-end
   bundle install
   rails: db:setup - create the database, load the schema, and initialize it with the seed data.
   rails: db:migrate - run pending migrations for the current environment.
