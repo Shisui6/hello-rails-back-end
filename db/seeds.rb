@@ -1,0 +1,1 @@
+Message.create([{ greeting: "Hello World!" }, { greeting: "Goodbye World!" }, { greeting: "Hello Again!"}, { greeting: "Goodbye Again!"}, { greeting: 'Bye!' }])
